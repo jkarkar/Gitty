@@ -1,3 +1,7 @@
 .DS_Store
 
 node_modules/
+
+# ignore the docs folder in branch bob
+docs/
+
