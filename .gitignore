@@ -2,3 +2,5 @@
 
 node_modules/
 
+# ingnore the docs folder in branch bob
+docs/
